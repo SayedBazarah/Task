@@ -40,7 +40,7 @@ export default function App() {
     <AppContainer />
   );
 }
-
+//just added a comment :D 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
